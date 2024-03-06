@@ -1,0 +1,13 @@
+@keyframes borderline {
+    from {
+   border-color: black;
+    }
+    to {
+        border-color: rgb(147, 233, 0);
+    }
+  } 
+
+
+  .slice-border-b {
+   animation: borderline 4s linear infinite;
+  }
